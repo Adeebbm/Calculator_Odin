@@ -22,6 +22,10 @@ body{
     width: 210px;
     margin-top: 30px;
     margin-bottom: 30px;
+    color: aliceblue;
+    text-align: right;
+    overflow-x : auto;
+    font-size: 50px;
 }
 
 .keypad{
